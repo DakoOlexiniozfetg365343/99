@@ -42,7 +42,7 @@ function init() {
     ctx.fillStyle = "lightblue";
     ctx.textAlign = "center";
     ctx.fillText(
-      "З восьмим березням👅",
+      "Happy March 8th",
       width / 2,
       height / 2 + (mobile ? 100 : 200)
     );
